@@ -7,6 +7,7 @@
 //
 
 import Foundation
+<<<<<<< HEAD
 import SwiftyJSON
 
 
@@ -42,3 +43,5 @@ class ActivityType {
     }
     
 }
+=======
+>>>>>>> 96fa2428621ab81154f6d013e0db79164d67dac6
