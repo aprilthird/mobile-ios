@@ -44,14 +44,19 @@
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
+<<<<<<< HEAD
                         <segue destination="AfX-wC-Eew" kind="relationship" relationship="rootViewController" id="Lv7-XO-foS"/>
                         <segue destination="Ldh-5k-3nZ" kind="show" id="0ZE-Fv-a6S"/>
+=======
+                        <segue destination="Ldh-5k-3nZ" kind="relationship" relationship="rootViewController" id="zNo-Et-Sb2"/>
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="X1x-hN-Hnh" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="914" y="118"/>
         </scene>
+<<<<<<< HEAD
         <!--Food Diet-->
         <scene sceneID="Qs9-C6-02h">
             <objects>
@@ -776,6 +781,8 @@
             </objects>
             <point key="canvasLocation" x="913" y="852"/>
         </scene>
+=======
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
         <!--Personal Trainers-->
         <scene sceneID="xWa-Ok-N13">
             <objects>
@@ -819,11 +826,19 @@
                             <outlet property="delegate" destination="VFq-J3-GuD" id="O0Q-8B-XhU"/>
                         </connections>
                     </collectionView>
+<<<<<<< HEAD
                     <tabBarItem key="tabBarItem" title="Trainers" image="Trainers" selectedImage="Trainers" id="g4P-Wy-GGa"/>
                 </collectionViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aaV-Sj-mM1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1994" y="475"/>
+=======
+                    <tabBarItem key="tabBarItem" title="Trainers" id="g4P-Wy-GGa"/>
+                </collectionViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aaV-Sj-mM1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1028" y="1030"/>
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
         </scene>
         <!--Settings-->
         <scene sceneID="D6M-fw-BvI">
@@ -835,11 +850,19 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="XHc-x4-off"/>
                     </view>
+<<<<<<< HEAD
                     <tabBarItem key="tabBarItem" title="Settings" image="Settings" selectedImage="Settings" id="Z1l-rw-Itp"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JRR-Cm-anT" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4562" y="476"/>
+=======
+                    <tabBarItem key="tabBarItem" title="Settings" id="Z1l-rw-Itp"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JRR-Cm-anT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3078" y="1030"/>
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
         </scene>
         <!--FitGym GymCompany-->
         <scene sceneID="4Dl-r8-LJp">
@@ -862,7 +885,11 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hGi-dn-PzB" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< HEAD
             <point key="canvasLocation" x="3764" y="-359"/>
+=======
+            <point key="canvasLocation" x="1673" y="116"/>
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
         </scene>
         <!--Login-->
         <scene sceneID="mbr-p1-45Q">
@@ -1011,11 +1038,19 @@
                             <outlet property="delegate" destination="skb-CC-Tej" id="zuT-hU-7On"/>
                         </connections>
                     </collectionView>
+<<<<<<< HEAD
                     <tabBarItem key="tabBarItem" title="Establishments" image="Establisments" selectedImage="Establisments" id="gaD-nb-beu"/>
                 </collectionViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8Ve-IU-RU8" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2942" y="476"/>
+=======
+                    <tabBarItem key="tabBarItem" title="Establishments" id="gaD-nb-beu"/>
+                </collectionViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8Ve-IU-RU8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1722" y="1030"/>
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
         </scene>
         <!--Activity Types-->
         <scene sceneID="naI-KP-2pz">
@@ -1060,11 +1095,19 @@
                             <outlet property="delegate" destination="aQ7-c0-HoL" id="2Bf-86-1Nb"/>
                         </connections>
                     </collectionView>
+<<<<<<< HEAD
                     <tabBarItem key="tabBarItem" title="Activities" image="Activities" selectedImage="Activities" id="Dwx-HP-0hK"/>
                 </collectionViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nWU-wJ-OgO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3764" y="477"/>
+=======
+                    <tabBarItem key="tabBarItem" title="Activities" id="Dwx-HP-0hK"/>
+                </collectionViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nWU-wJ-OgO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2398" y="1030"/>
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
         </scene>
     </scenes>
     <resources>

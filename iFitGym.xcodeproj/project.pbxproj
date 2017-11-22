@@ -24,6 +24,10 @@
 		5E9181FF1FBD95EF002BF3A7 /* Establishment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9181FE1FBD95EF002BF3A7 /* Establishment.swift */; };
 		5E9182011FBD95FC002BF3A7 /* ActivityType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9182001FBD95FC002BF3A7 /* ActivityType.swift */; };
 		5E9182031FBDB02E002BF3A7 /* FitGymApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9182021FBDB02E002BF3A7 /* FitGymApiService.swift */; };
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 		992F77E11FC1E89F005BDF94 /* Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992F77E01FC1E89F005BDF94 /* Activity.swift */; };
 		992F77F81FC1E9EC005BDF94 /* ActivityDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992F77F71FC1E9EC005BDF94 /* ActivityDetail.swift */; };
 		992F77FC1FC1EA90005BDF94 /* BodyMeasurements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992F77FB1FC1EA90005BDF94 /* BodyMeasurements.swift */; };
@@ -35,6 +39,11 @@
 		992F78081FC1ED4E005BDF94 /* Subscription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992F78071FC1ED4E005BDF94 /* Subscription.swift */; };
 		992F780A1FC1EDC0005BDF94 /* SubscriptionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992F78091FC1EDC0005BDF94 /* SubscriptionType.swift */; };
 		992F780C1FC1EDD4005BDF94 /* TypeMeal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992F780B1FC1EDD4005BDF94 /* TypeMeal.swift */; };
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 96fa2428621ab81154f6d013e0db79164d67dac6
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -241,6 +250,10 @@
 		5E9181FE1FBD95EF002BF3A7 /* Establishment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Establishment.swift; sourceTree = "<group>"; };
 		5E9182001FBD95FC002BF3A7 /* ActivityType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityType.swift; sourceTree = "<group>"; };
 		5E9182021FBDB02E002BF3A7 /* FitGymApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitGymApiService.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 		992F77E01FC1E89F005BDF94 /* Activity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Activity.swift; sourceTree = "<group>"; };
 		992F77F71FC1E9EC005BDF94 /* ActivityDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityDetail.swift; sourceTree = "<group>"; };
 		992F77FB1FC1EA90005BDF94 /* BodyMeasurements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyMeasurements.swift; sourceTree = "<group>"; };
@@ -252,6 +265,11 @@
 		992F78071FC1ED4E005BDF94 /* Subscription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subscription.swift; sourceTree = "<group>"; };
 		992F78091FC1EDC0005BDF94 /* SubscriptionType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionType.swift; sourceTree = "<group>"; };
 		992F780B1FC1EDD4005BDF94 /* TypeMeal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeMeal.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 96fa2428621ab81154f6d013e0db79164d67dac6
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -360,6 +378,10 @@
 				5E9181FC1FBD95DF002BF3A7 /* Client.swift */,
 				5E9181FE1FBD95EF002BF3A7 /* Establishment.swift */,
 				5E9182001FBD95FC002BF3A7 /* ActivityType.swift */,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 				992F77E01FC1E89F005BDF94 /* Activity.swift */,
 				992F77F71FC1E9EC005BDF94 /* ActivityDetail.swift */,
 				992F77FB1FC1EA90005BDF94 /* BodyMeasurements.swift */,
@@ -371,6 +393,11 @@
 				992F78071FC1ED4E005BDF94 /* Subscription.swift */,
 				992F78091FC1EDC0005BDF94 /* SubscriptionType.swift */,
 				992F780B1FC1EDD4005BDF94 /* TypeMeal.swift */,
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 96fa2428621ab81154f6d013e0db79164d67dac6
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -631,6 +658,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 				992F78081FC1ED4E005BDF94 /* Subscription.swift in Sources */,
 				992F78001FC1ECC7005BDF94 /* Evaluation.swift in Sources */,
 				5E9182011FBD95FC002BF3A7 /* ActivityType.swift in Sources */,
@@ -649,6 +680,18 @@
 				992F780C1FC1EDD4005BDF94 /* TypeMeal.swift in Sources */,
 				992F78041FC1ED06005BDF94 /* Goal.swift in Sources */,
 				992F780A1FC1EDC0005BDF94 /* SubscriptionType.swift in Sources */,
+<<<<<<< HEAD
+=======
+=======
+				5E9182011FBD95FC002BF3A7 /* ActivityType.swift in Sources */,
+				5E9181F91FBD95B9002BF3A7 /* GymCompany.swift in Sources */,
+				5E9181FB1FBD95D5002BF3A7 /* PersonalTrainer.swift in Sources */,
+				5E91818C1FBD91A7002BF3A7 /* WelcomeViewController.swift in Sources */,
+				5E9182031FBDB02E002BF3A7 /* FitGymApiService.swift in Sources */,
+				5E9181FF1FBD95EF002BF3A7 /* Establishment.swift in Sources */,
+				5E9181FD1FBD95DF002BF3A7 /* Client.swift in Sources */,
+>>>>>>> 96fa2428621ab81154f6d013e0db79164d67dac6
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 				5E91818A1FBD91A7002BF3A7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

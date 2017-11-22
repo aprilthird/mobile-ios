@@ -7,6 +7,10 @@
 //
 
 import Foundation
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
 import SwiftyJSON
 
 
@@ -42,3 +46,8 @@ class ActivityType {
     }
     
 }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 96fa2428621ab81154f6d013e0db79164d67dac6
+>>>>>>> c959759c6f7c352518020cc80054d8c8f2df0dda
